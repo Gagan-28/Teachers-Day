@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red, yellow);
+    background-repeat: no-repeat;
+}
+.line {
+  background-color: black;
+  width: 100px;
+  height: 5px;
+  margin: 8px auto;
+}
